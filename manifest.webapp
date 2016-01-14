@@ -1,0 +1,15 @@
+{
+  "version":"1.0",
+  "name": "Etrend",
+  "description": "Etrend applikáció",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/etrend_512.png",
+    "128": "/img/etrend_128.png"
+  },
+  "developer": {
+    "name": "Bartos Tamás",
+    "url": "www.github.com/battact/"
+  },
+  "default_locale": "hu"
+}

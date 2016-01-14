@@ -1,0 +1,17 @@
+.etel1 {
+width:100%;
+}
+
+.etel1 td {
+width: 33%;
+}
+
+#txts {
+ font-size: 12px;
+ float: none;
+}
+
+#datum {
+font-size: 14px;
+}
+
